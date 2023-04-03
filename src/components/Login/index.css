@@ -9,7 +9,7 @@
 
 .login-responsive-container {
   width: 400px;
-  height: 300px;
+  height: 350px;
   background-color: #272727;
   padding: 20px 15px;
   border-radius: 15px;
@@ -48,18 +48,20 @@
 
 .button-container {
   text-align: start;
+  margin-bottom: 30px;
 }
 
 .login-button {
   width: 300px;
   height: 35px;
-  border-radius: 10px;
+  border-radius: 5px;
   padding: 5px 10px;
   outline: none;
   border: none;
   background-color: #6366f1;
   color: #fff;
   font-weight: 600;
+  cursor: pointer;
 }
 
 .error-msg {
